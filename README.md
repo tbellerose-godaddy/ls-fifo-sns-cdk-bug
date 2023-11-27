@@ -40,5 +40,5 @@ _Assumes you have [LocalStack](https://docs.localstack.cloud/getting-started/ins
       awslocal sns get-topic-attribute --topic-arn <topic-arn>
       ```
 
-    - #### Using LocalStack Desktop
-      ![LocalStack Desktop](./images/localstack-desktop.png)
+  - #### Using LocalStack Desktop
+    ![LocalStack Desktop](./images/localstack-desktop.png)
